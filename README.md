@@ -1,4 +1,6 @@
 # Three-tier web app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fterraform-google-three-tier-web-ap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fterraform-google-three-tier-web-ap?ref=badge_shield)
+
 
 This repository contains the Terraform deployed by the Jump Start Solution (JSS) titled [Three-tier web application](https://console.cloud.google.com/products/solutions/details/three-tier-web-app).
 The source code for web application (frontend and middle tier) deployed by this JSS can be found at [github.com/GoogleCloudPlatform/deploystack-three-tier-app](https://github.com/GoogleCloudPlatform/deploystack-three-tier-app).
@@ -107,3 +109,7 @@ information on contributing to this module.
 ## Security Disclosures
 
 Please see our [security disclosure process](./SECURITY.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fterraform-google-three-tier-web-ap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fterraform-google-three-tier-web-ap?ref=badge_large)
